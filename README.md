@@ -56,7 +56,9 @@
         Cells(4 + i, 2).Value = tickerVolumes(i)
         Cells(4 + i, 3).Value = tickerEndingPrices(i) / tickerStartingPrices(i) - 1
         Next i
-     
+
+![2017](https://github.com/veenapu/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![2018](https://github.com/veenapu/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)     
 
 ## Summary: 
 ### In a summary statement, address the following questions.
